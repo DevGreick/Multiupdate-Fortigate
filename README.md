@@ -8,9 +8,9 @@
 <p align="center">
 <p/>
 
-# Versão 0.1
+# Versão 0.2
 
-<a href="https://github.com/SecZeroR/MultiUpdate-FortiGate/releases"> Baixe Aqui </a></p>
+<a href="https://github.com/SecZeroR/Multiupdate-Fortigate/releases/tag/MultiUpdate0.2"> Baixe Aqui </a></p>
 
 <p align="center">
 <b>Funcionalidades</b> </p>
