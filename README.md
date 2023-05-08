@@ -1,4 +1,4 @@
-# MultiUpdate FortiGate
+# 
 
 <p align="center">
   <img src="fortigate.png" alt="MultiUpdate FortiGate"/>
