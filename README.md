@@ -17,9 +17,7 @@
 <p align="center">
 <b>Funcionalidades</b> </p>
 <b>Atualização em massa de firmware em vários dispositivos FortiGate simultaneamente sem necessidade do fortimanager.
-Utilização da biblioteca Paramiko do Python para se conectar ao dispositivo FortiGate e enviar os comandos necessários para atualizar o firmware.
-Utilização do módulo concurrent.futures para executar a atualização em paralelo em vários dispositivos ao mesmo tempo, economizando tempo e aumentando a eficiência do processo de atualização.
-Teste de ping para verificar a conectividade com os dispositivos antes de iniciar a atualização de firmware em massa.</b>
+</b>
 
 
 
