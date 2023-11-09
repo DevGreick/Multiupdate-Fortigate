@@ -15,14 +15,13 @@
 <a href="https://github.com/SecZeroR/Multiupdate-Fortigate/releases/tag/MultiUpdate0.2"> Baixe Aqui </a></p>
 
 <p align="center">
-<b>Funcionalidades</b> </p>
-<b>Atualização em massa de firmware em vários dispositivos FortiGate simultaneamente.
-</b>
+<b>Instruções de Uso
+</b></p>
 
 
 
-<p align="center">
-<b>Utilização</b> </p>
+
+
 
 ````
 Baixe e instale a última versão do Python em https://www.python.org/downloads/.
