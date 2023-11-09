@@ -5,7 +5,7 @@
 </p>
 
 #
-<b>O MultiUpdate FortiGate é uma ferramenta desenvolvida para ajudar profissionais de TI e segurança da informação a economizar tempo e aumentar a eficiência do processo de atualização de firmware em vários dispositivos FortiGate simultaneamente. Com a ferramenta, é possível automatizar a atualização de vários dispositivos FortiGate de uma só vez, eliminando a necessidade de atualizar manualmente cada dispositivo.</b>
+<b>O MultiUpdate FortiGate tem a proposta de ajudar profissionais de TI e segurança da informação a economizar tempo efetuando a atualização de firmware em vários dispositivos FortiGate simultaneamente.</b>
 
 <p align="center">
 <p/>
@@ -16,7 +16,7 @@
 
 <p align="center">
 <b>Funcionalidades</b> </p>
-<b>Atualização em massa de firmware em vários dispositivos FortiGate simultaneamente sem necessidade do fortimanager.
+<b>Atualização em massa de firmware em vários dispositivos FortiGate simultaneamente.
 </b>
 
 
